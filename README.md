@@ -19,4 +19,4 @@ Use 'simulatepattern.m' to simulate a single pattern. Specify the parameters in 
 You can also use the 'simulatepattern_pseudosymcompare.m' and 'simulatepattern_pseudosymcompare2.m' programs to compare the patterns for 2 or 3 pseudosymmetric variants, respectively, on top of each other.
 
 
-Feel free to email me at epang22@gmail.com if you have any questions/difficulties/suggestions.
+Feel free to email me at epang@mit.edu if you have any questions/difficulties/suggestions.
